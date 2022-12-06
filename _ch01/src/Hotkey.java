@@ -1,5 +1,6 @@
 public class Hotkey {
 	public static void main(String[] args) {
+		
 		// Ctrl + Shift + L : 단축키 전체 목록보기
 		// Ctrl + +,- : 폰트 크기 증가, 감소
 		// Ctrl + D : 한 줄 삭제
@@ -20,6 +21,6 @@ public class Hotkey {
 		System.out.println("sysout");
 		System.out.println("Hotkey");
 		System.out.println("Hotkey");
+		
 	}
-
 }
