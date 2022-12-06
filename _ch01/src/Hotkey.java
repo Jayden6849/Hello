@@ -1,8 +1,5 @@
-
 public class Hotkey {
-
 	public static void main(String[] args) {
-		
 		// Ctrl + Shift + L : 단축키 전체 목록보기
 		// Ctrl + +,- : 폰트 크기 증가, 감소
 		// Ctrl + D : 한 줄 삭제
@@ -17,12 +14,12 @@ public class Hotkey {
 		// Ctrl + / : 주석(토글) -> 한 줄 주석
 			// cf) /* 여러줄 주석 */
 		// Ctrl + Space : 자동완성
+		// Alt + Shift + O : 같은 단어 표시(형광펜)
 		// Ctrl + F11 : 실행(Run)
 		System.out.println("/*주석아님*/"); // 따옴표 안은 텍스트로 간주되기때문에 주석으로 처리되지 않음
 		System.out.println("sysout");
 		System.out.println("Hotkey");
 		System.out.println("Hotkey");
-		
 	}
 
 }
