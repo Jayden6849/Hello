@@ -11,11 +11,13 @@ public class Hotkey {
 		// Tap : 들여쓰기
 		// Shift + Tap : 내어쓰기
 		// Ctrl + i : 자동 들여쓰기
+		// Ctrl + Shift + F : 자동 정렬
 		// Ctrl + / : 주석(토글) -> 한 줄 주석
 			// cf) /* 여러줄 주석 */
 		// Ctrl + Space : 자동완성
 		// Alt + Shift + O : 같은 단어 표시(형광펜)
 		// Ctrl + F11 : 실행(Run)
+		// Ctrl + Shirt + O : 자동 임포트
 		System.out.println("/*주석아님*/"); // 따옴표 안은 텍스트로 간주되기때문에 주석으로 처리되지 않음
 		System.out.println("sysout");
 		System.out.println("Hotkey");
